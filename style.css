@@ -999,12 +999,12 @@ textarea:focus {
         }
 
         & a {
-            color: var(--colorgristexto2);
+            color: var(--colornegro);
             text-decoration: none;
         }
 
         & a:hover {
-            text-decoration: underline solid var(--colorgristexto1);
+            text-decoration: underline solid var(--colornegro);
         }
     }
 
@@ -1269,12 +1269,12 @@ textarea:focus {
         }
 
         & a {
-            color: var(--colorgristexto2);
+            color: var(--colornegro);
             text-decoration: none;
         }
 
         & a:hover {
-            text-decoration: underline solid var(--colorgristexto1);
+            text-decoration: underline solid var(--colornegro);
         }
     }
 
